@@ -1,0 +1,201 @@
+flight_id,airline,origin,destination,dep_time,day_of_week,weather,delay_min
+F1000,United,JFK,SFO,16:15,2,Foggy,76
+F1001,JetBlue,DFW,SEA,13:55,1,Rainy,90
+F1002,Southwest,LAX,DEN,00:09,1,Clear,14
+F1003,JetBlue,ORD,SEA,18:39,3,Foggy,90
+F1004,JetBlue,ORD,BOS,18:00,3,Clear,6
+F1005,Southwest,LAX,DEN,15:46,3,Stormy,77
+F1006,American Airlines,ORD,MIA,02:14,7,Stormy,32
+F1007,American Airlines,ORD,MIA,10:04,2,Clear,14
+F1008,Southwest,LAX,SFO,02:00,7,Clear,27
+F1009,Southwest,ATL,SEA,23:25,6,Rainy,51
+F1010,United,ATL,MIA,05:45,4,Clear,15
+F1011,Southwest,ATL,BOS,05:50,1,Rainy,41
+F1012,Delta,LAX,MIA,18:39,6,Clear,9
+F1013,JetBlue,DFW,SEA,11:57,2,Foggy,20
+F1014,JetBlue,JFK,DEN,22:59,6,Stormy,110
+F1015,Southwest,ATL,SFO,19:47,7,Clear,0
+F1016,Southwest,ORD,DEN,17:28,5,Stormy,69
+F1017,United,DFW,SEA,03:21,7,Stormy,36
+F1018,Delta,ATL,DEN,02:11,2,Stormy,52
+F1019,American Airlines,LAX,MIA,17:10,1,Foggy,29
+F1020,United,JFK,SEA,04:24,7,Snowy,20
+F1021,Delta,LAX,MIA,16:13,5,Foggy,47
+F1022,Delta,ATL,SEA,11:39,3,Snowy,26
+F1023,United,ATL,SFO,04:29,7,Rainy,62
+F1024,United,JFK,MIA,12:40,5,Foggy,78
+F1025,Delta,LAX,MIA,21:18,6,Stormy,96
+F1026,Southwest,JFK,SEA,19:46,2,Stormy,55
+F1027,United,LAX,MIA,21:55,7,Clear,1
+F1028,JetBlue,LAX,DEN,23:02,4,Foggy,56
+F1029,Southwest,DFW,SEA,13:50,4,Stormy,55
+F1030,American Airlines,ATL,MIA,02:36,1,Foggy,94
+F1031,JetBlue,ATL,MIA,22:20,1,Stormy,101
+F1032,Southwest,DFW,SEA,02:51,6,Rainy,106
+F1033,United,ORD,BOS,07:52,4,Rainy,21
+F1034,American Airlines,LAX,SEA,02:42,6,Stormy,25
+F1035,Delta,DFW,DEN,01:22,1,Snowy,31
+F1036,American Airlines,LAX,SFO,22:10,6,Snowy,27
+F1037,United,ORD,DEN,11:02,5,Snowy,109
+F1038,American Airlines,ORD,BOS,19:37,6,Foggy,53
+F1039,JetBlue,LAX,MIA,17:18,4,Rainy,70
+F1040,American Airlines,ORD,DEN,08:50,1,Snowy,54
+F1041,Delta,JFK,SEA,03:57,6,Foggy,62
+F1042,American Airlines,LAX,BOS,06:46,5,Clear,6
+F1043,Delta,ORD,BOS,02:09,6,Rainy,35
+F1044,JetBlue,ORD,MIA,14:21,5,Clear,0
+F1045,JetBlue,ATL,SEA,19:48,2,Stormy,60
+F1046,JetBlue,ATL,MIA,15:44,3,Foggy,100
+F1047,JetBlue,ATL,SFO,03:32,6,Snowy,53
+F1048,United,ORD,SFO,03:02,6,Snowy,91
+F1049,JetBlue,DFW,DEN,06:22,3,Stormy,40
+F1050,Southwest,LAX,DEN,08:30,3,Snowy,41
+F1051,United,DFW,BOS,10:13,1,Snowy,92
+F1052,United,JFK,DEN,04:46,1,Stormy,72
+F1053,Southwest,ORD,DEN,05:45,1,Rainy,76
+F1054,American Airlines,LAX,BOS,22:55,1,Clear,13
+F1055,United,ATL,BOS,09:04,1,Foggy,25
+F1056,JetBlue,DFW,DEN,10:32,6,Foggy,88
+F1057,American Airlines,JFK,DEN,10:30,5,Rainy,84
+F1058,JetBlue,ORD,MIA,11:30,6,Foggy,37
+F1059,Southwest,JFK,SEA,10:25,1,Stormy,42
+F1060,JetBlue,LAX,SEA,22:54,6,Foggy,34
+F1061,JetBlue,ATL,MIA,08:19,1,Stormy,55
+F1062,United,JFK,MIA,16:24,7,Snowy,56
+F1063,Southwest,ATL,SFO,03:04,4,Snowy,93
+F1064,Delta,JFK,SEA,10:27,3,Clear,7
+F1065,JetBlue,DFW,SFO,11:24,4,Rainy,87
+F1066,Southwest,ATL,MIA,15:48,5,Snowy,52
+F1067,American Airlines,ORD,MIA,21:00,5,Foggy,63
+F1068,Southwest,DFW,MIA,15:40,4,Foggy,48
+F1069,Southwest,JFK,DEN,20:35,5,Rainy,34
+F1070,United,DFW,SFO,16:07,4,Clear,24
+F1071,JetBlue,LAX,DEN,15:06,6,Clear,2
+F1072,Southwest,JFK,SEA,04:16,1,Snowy,28
+F1073,JetBlue,JFK,DEN,18:38,4,Rainy,97
+F1074,Southwest,DFW,SEA,22:02,6,Rainy,94
+F1075,Delta,ATL,DEN,13:03,6,Foggy,28
+F1076,Southwest,LAX,MIA,08:41,3,Foggy,42
+F1077,American Airlines,DFW,SFO,21:52,7,Rainy,85
+F1078,Delta,LAX,SFO,05:35,6,Clear,3
+F1079,Southwest,ORD,BOS,15:47,5,Clear,1
+F1080,American Airlines,DFW,MIA,13:31,7,Clear,29
+F1081,JetBlue,DFW,BOS,08:56,4,Stormy,56
+F1082,American Airlines,ORD,BOS,09:38,4,Rainy,14
+F1083,American Airlines,JFK,DEN,20:57,5,Rainy,19
+F1084,Southwest,ORD,SEA,00:16,4,Stormy,58
+F1085,Delta,JFK,BOS,22:25,1,Foggy,99
+F1086,JetBlue,LAX,SFO,06:32,3,Foggy,79
+F1087,Delta,ATL,DEN,13:18,6,Rainy,81
+F1088,United,DFW,DEN,01:29,2,Foggy,51
+F1089,American Airlines,LAX,MIA,17:18,6,Snowy,114
+F1090,Southwest,ATL,SEA,15:50,3,Clear,3
+F1091,American Airlines,ATL,SFO,17:21,2,Snowy,34
+F1092,United,JFK,SFO,15:50,2,Stormy,45
+F1093,JetBlue,LAX,DEN,23:38,4,Foggy,85
+F1094,United,DFW,SEA,03:44,7,Snowy,47
+F1095,American Airlines,ATL,MIA,16:33,6,Clear,19
+F1096,JetBlue,DFW,SFO,23:40,3,Clear,27
+F1097,Delta,DFW,SEA,21:16,3,Foggy,43
+F1098,Delta,ATL,SEA,10:35,5,Snowy,103
+F1099,JetBlue,DFW,BOS,17:46,3,Snowy,61
+F1100,JetBlue,JFK,SFO,11:25,5,Foggy,21
+F1101,Southwest,JFK,DEN,08:16,3,Clear,23
+F1102,Southwest,ORD,SFO,09:34,1,Foggy,57
+F1103,Delta,JFK,SFO,16:28,1,Stormy,78
+F1104,Delta,LAX,BOS,22:08,1,Clear,13
+F1105,American Airlines,DFW,MIA,03:54,5,Stormy,77
+F1106,Southwest,ATL,MIA,08:07,7,Rainy,93
+F1107,Delta,ATL,SEA,23:31,7,Snowy,108
+F1108,Southwest,JFK,SFO,19:17,7,Snowy,33
+F1109,JetBlue,JFK,SFO,18:52,3,Foggy,105
+F1110,Southwest,ATL,BOS,04:45,5,Stormy,63
+F1111,JetBlue,LAX,SFO,15:24,4,Stormy,78
+F1112,United,ORD,DEN,11:58,3,Snowy,77
+F1113,United,ATL,BOS,17:02,5,Stormy,32
+F1114,United,LAX,MIA,18:46,6,Snowy,49
+F1115,American Airlines,LAX,MIA,11:50,5,Stormy,34
+F1116,United,ATL,DEN,07:13,4,Snowy,101
+F1117,Southwest,ATL,SFO,23:34,5,Foggy,51
+F1118,Delta,DFW,SFO,06:57,3,Rainy,95
+F1119,Southwest,LAX,MIA,15:21,7,Snowy,77
+F1120,JetBlue,JFK,SEA,22:25,1,Rainy,99
+F1121,United,LAX,BOS,00:34,7,Snowy,90
+F1122,United,JFK,MIA,03:14,4,Snowy,71
+F1123,JetBlue,DFW,DEN,02:55,1,Snowy,44
+F1124,United,ATL,SEA,08:34,5,Snowy,49
+F1125,Delta,LAX,SEA,05:12,7,Rainy,30
+F1126,United,DFW,SFO,16:59,3,Clear,9
+F1127,United,JFK,SEA,15:20,1,Clear,25
+F1128,Southwest,DFW,MIA,12:42,4,Clear,4
+F1129,JetBlue,LAX,SFO,22:04,2,Stormy,56
+F1130,United,LAX,DEN,22:11,4,Rainy,100
+F1131,Delta,DFW,MIA,18:30,6,Clear,4
+F1132,Delta,JFK,SEA,13:43,6,Stormy,93
+F1133,JetBlue,JFK,DEN,06:57,1,Snowy,90
+F1134,Southwest,LAX,SEA,13:19,2,Snowy,51
+F1135,American Airlines,LAX,DEN,20:47,2,Stormy,82
+F1136,Delta,DFW,MIA,16:35,3,Stormy,18
+F1137,Delta,JFK,SFO,21:21,1,Foggy,58
+F1138,Delta,ATL,SFO,14:09,4,Stormy,68
+F1139,United,ORD,DEN,06:18,5,Foggy,99
+F1140,Delta,DFW,DEN,05:32,6,Foggy,55
+F1141,JetBlue,ORD,DEN,17:45,4,Foggy,118
+F1142,Southwest,LAX,SFO,19:19,3,Snowy,67
+F1143,Delta,ATL,SFO,17:54,3,Foggy,111
+F1144,Delta,ORD,MIA,01:33,6,Rainy,71
+F1145,Southwest,JFK,DEN,02:44,1,Stormy,72
+F1146,United,ORD,BOS,11:28,4,Stormy,59
+F1147,American Airlines,JFK,BOS,12:16,2,Stormy,39
+F1148,Delta,ORD,DEN,08:05,1,Foggy,38
+F1149,Delta,ORD,MIA,09:26,2,Snowy,69
+F1150,JetBlue,LAX,BOS,21:17,7,Clear,5
+F1151,Delta,DFW,BOS,16:26,2,Clear,15
+F1152,American Airlines,ATL,DEN,22:44,1,Clear,12
+F1153,United,ORD,MIA,04:01,4,Clear,2
+F1154,American Airlines,DFW,SFO,11:31,6,Foggy,104
+F1155,Southwest,ORD,BOS,07:05,4,Rainy,30
+F1156,Southwest,ATL,DEN,01:46,7,Snowy,96
+F1157,Southwest,ATL,MIA,07:02,1,Stormy,86
+F1158,American Airlines,LAX,SFO,18:28,7,Rainy,55
+F1159,Southwest,ORD,SFO,13:28,1,Rainy,48
+F1160,United,LAX,MIA,12:38,2,Stormy,90
+F1161,Delta,JFK,BOS,13:25,6,Stormy,27
+F1162,American Airlines,DFW,MIA,12:50,2,Clear,11
+F1163,United,LAX,DEN,04:57,1,Clear,11
+F1164,American Airlines,ATL,MIA,14:11,7,Stormy,67
+F1165,Delta,ORD,DEN,14:47,1,Foggy,53
+F1166,Southwest,ORD,SEA,14:51,7,Clear,17
+F1167,Southwest,ORD,BOS,16:05,3,Stormy,109
+F1168,American Airlines,DFW,BOS,15:47,3,Snowy,42
+F1169,JetBlue,ORD,BOS,06:35,2,Rainy,28
+F1170,JetBlue,DFW,MIA,05:35,5,Stormy,72
+F1171,Southwest,ORD,SEA,16:19,5,Rainy,115
+F1172,Southwest,LAX,SFO,18:19,5,Foggy,56
+F1173,American Airlines,ORD,SFO,13:31,6,Foggy,72
+F1174,United,JFK,MIA,03:29,2,Snowy,65
+F1175,American Airlines,LAX,BOS,03:31,7,Clear,1
+F1176,Southwest,ATL,DEN,10:21,3,Clear,19
+F1177,United,ORD,SFO,20:58,7,Rainy,35
+F1178,Delta,ORD,SFO,20:23,7,Clear,30
+F1179,United,ORD,SFO,05:23,4,Stormy,68
+F1180,United,LAX,SEA,06:58,4,Clear,21
+F1181,JetBlue,DFW,MIA,17:35,3,Stormy,55
+F1182,Delta,ATL,SFO,19:54,5,Stormy,19
+F1183,Southwest,ATL,SFO,03:49,1,Rainy,72
+F1184,JetBlue,LAX,DEN,11:46,4,Snowy,33
+F1185,American Airlines,ORD,SEA,15:09,3,Stormy,23
+F1186,United,ORD,SEA,18:26,3,Snowy,99
+F1187,JetBlue,LAX,DEN,16:59,5,Stormy,72
+F1188,JetBlue,JFK,SEA,20:16,4,Clear,12
+F1189,Delta,ORD,DEN,19:11,3,Snowy,99
+F1190,American Airlines,LAX,SFO,05:41,7,Snowy,20
+F1191,American Airlines,LAX,SFO,23:09,5,Foggy,64
+F1192,United,JFK,SEA,09:24,2,Foggy,19
+F1193,JetBlue,LAX,DEN,14:41,6,Foggy,73
+F1194,Delta,JFK,SEA,16:44,4,Snowy,70
+F1195,American Airlines,ORD,BOS,11:02,7,Clear,26
+F1196,American Airlines,JFK,MIA,02:44,2,Snowy,57
+F1197,JetBlue,JFK,MIA,00:57,7,Foggy,56
+F1198,Southwest,DFW,SEA,08:33,4,Clear,7
+F1199,American Airlines,JFK,DEN,21:01,7,Stormy,28
